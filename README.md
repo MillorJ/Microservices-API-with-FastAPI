@@ -146,6 +146,8 @@ I’ve been exploring how FastAPI works recently, and I’m happy to report that
 # EXTRA
 pip install python-jose[cryptography] passlib[bcrypt] fastapi
 
+....
+
 
 
 
